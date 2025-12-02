@@ -100,7 +100,7 @@ const maksymVolkov = {
 I'm always interested in collaborating on exciting projects and helping teams achieve their goals!
 
 - 📧 Email: [maksym.volkov.work@gmail.com](mailto:maksym.volkov.work@gmail.com)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/maksym-volkov)
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/zigota/)
 - 📱 Phone: +380960817377
 
 ---
